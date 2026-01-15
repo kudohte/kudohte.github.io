@@ -7,7 +7,7 @@
 - PHPによるWebアプリケーションの開発経験【10年以上】
 - PHPフレームワーク業務経験【CakePHP /Laravel /Symfony】
 - 社内向けヘルプデスク、社外向けテクニカルサポート経験あり
-- [スキルマトリックス](https://inquisitive-christmas-ef3.notion.site/18a7b4bac7728038affde859f458c08e?v=18a7b4bac7728184a2df000c8b56e987&pvs=4)
+- [スキルマトリックス](https://www.notion.so/18a7b4bac7728038affde859f458c08e?v=18a7b4bac7728184a2df000c8b56e987)
 - [社内業務効率化のシステム構築運用（GAS、Python）](https://inquisitive-christmas-ef3.notion.site/GAS-1c47b4bac772803b93aedd24ed23d086)
 - Android端末Root化および運用経験 (2022〜2025年) 
 - [STFリモートスマホ システム構築【Ubuntu】経験](http://qiita.com/kudoh/items/32fe9cef9bd4fa13d7d2) (2024年) 
